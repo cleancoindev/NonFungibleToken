@@ -21,7 +21,7 @@
   ],
   "dependencies": {
     "abi-decoder": "^1.0.9",
-    "zeppelin-solidity": "^1.4.0"
+    "zeppelin-solidity": "^1.8.0"
   },
   "devDependencies": {
     "@0xproject/abi-gen": "^0.0.2",
