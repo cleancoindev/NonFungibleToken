@@ -20,7 +20,7 @@
     "lint"
   ],
   "dependencies": {
-    "abi-decoder": "^1.0.9",
+    "abi-decoder": "^1.2.0",
     "zeppelin-solidity": "^1.4.0"
   },
   "devDependencies": {
